@@ -1,0 +1,31 @@
+###
+### NAMESPACE
+###
+import(methods)
+import(stats)
+import(graphics)
+import(oompaBase)
+import(ClassDiscovery)
+importFrom(kernlab, specc)
+importFrom(changepoint, cpt.mean, cpts)
+importFrom(cpm, detectChangePointBatch)
+
+# redefined S3 methods
+importMethodsFrom(oompaBase, "summary", "plot")
+
+# compute number of PCs using broken-stick model
+export(brokenStick, bsDimension)
+
+# compute number of PCs using randomization-based model
+export(rndLambdaF)
+
+# compute number of PCs using Auer-Gervini method
+exportClasses("AuerGervini")
+export(AuerGervini, agDimension)
+# lots of ways to automate the count
+export(compareAgDimMethods)
+export(agDimTwiceMean,
+       agDimKmeans, agDimKmeans3,
+       agDimSpectral, agDimTtest, agDimTtest2,
+       agDimCPT, makeAgCpmFun)
+
