@@ -1,4 +1,4 @@
-7185a69d6fff1776b5366ea455ab975a *DESCRIPTION
+3dfea12e22f5a2b8b5b0c225dc6e5d54 *DESCRIPTION
 d001a75f3b244a8025b5c6675084b3fa *NAMESPACE
 d9afce8dc7f194abcf1ba4079469cb9c *NEWS
 8a3b511e64c8ce052d6da6f714121e26 *R/00-Auer-Gervini.R
@@ -7,8 +7,9 @@ d9afce8dc7f194abcf1ba4079469cb9c *NEWS
 2dfcd1f2e49114c939eee192b76d1dc7 *data/spca.rda
 862163d3b5f27d177082cc3924581ab9 *inst/doc/PCDimension.R
 15bbf7aae97518f7f588976f259c9758 *inst/doc/PCDimension.Rnw
-552485da53076107b2eeb2fe3dbf3b2a *inst/doc/PCDimension.pdf
+7e24a8a2f23e83fb8c37816993d75dbc *inst/doc/PCDimension.pdf
 8b53d6b338cd90cfb236b631744248d8 *man/AuerGervini-class.Rd
+c9ad590d54a656b6f04bd83e8c868bca *man/PCDimension-package.Rd
 dc0ee033853c3836a15bea214dfa9c63 *man/agfun.Rd
 da4b95658eb34ec3f6a2131557a82ad2 *man/brokenStick.Rd
 b98f5fe785c3d7bf1894812942e9b907 *man/compare.Rd
