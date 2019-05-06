@@ -1,6 +1,6 @@
 Package: PCDimension
-Version: 1.1.10
-Date: 2019-04-23
+Version: 1.1.11
+Date: 2019-05-06
 Title: Finding the Number of Significant Principal Components
 Author: Kevin R. Coombes, Min Wang
 Maintainer: Kevin R. Coombes <krc@silicovore.com>
@@ -17,6 +17,6 @@ License: Apache License (== 2.0)
 biocViews: Clustering
 URL: http://oompa.r-forge.r-project.org/
 NeedsCompilation: no
-Packaged: 2019-04-23 14:58:27 UTC; Kevin
+Packaged: 2019-05-06 17:51:47 UTC; Kevin Coombes
 Repository: CRAN
-Date/Publication: 2019-04-23 16:30:09 UTC
+Date/Publication: 2019-05-06 19:00:06 UTC
